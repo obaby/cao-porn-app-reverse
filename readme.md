@@ -320,7 +320,7 @@ def ts_proxy(request):
 
 ```
 此时就可以正常播放了，不过由于服务器带宽，以及在线解密，有时会卡顿  
-![fix_play](screen_shots/movie_fix.jpg)  
+![fix_play](screen_shots/movie_fix3.jpg)  
 
 ----
 - obaby@mars  
